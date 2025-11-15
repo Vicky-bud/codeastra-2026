@@ -65,7 +65,7 @@ codeastra-2026/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Vicky-bud/codeastra-2026.git
    cd codeastra-2026
    ```
 
@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support and questions:
 - Email: codeastra26@gmail.com
-- GitHub Issues: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues
+- GitHub Issues: https://github.com/Vicky-bud/codeastra-2026/issues
 
 ## 🙏 Acknowledgments
 
